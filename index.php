@@ -20,7 +20,7 @@
                 }
             }
         }
-        
+        var_dump($scramble_arr);
     ?>
 </body>
 </html>
