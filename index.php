@@ -20,6 +20,7 @@
                 }
             }
         }
+        echo '<pre>';var_dump($scramble_arr);echo '</pre>';
     ?>
 </body>
 </html>
