@@ -22,6 +22,7 @@
         }
         echo '<pre>';var_dump($scramble_arr);echo '</pre>';
         /* added a comment */
+        // new comment
     ?>
 </body>
 </html>
